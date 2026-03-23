@@ -38,9 +38,5 @@ HTML · CSS · Vanilla JavaScript · PWA
 Designed & built by **Traderson509**
 Powered by **TraderMind** © 2026
 ```
-
----
-
-Nan bwat **"Message de validation"** mete:
 ```
 Add README for TraderMind
