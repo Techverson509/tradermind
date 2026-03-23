@@ -1,4 +1,4 @@
-const CACHE = 'tradermind-v2';
+const CACHE = 'tradermind-v3';
 const FILES = [
   './',
   './index.html',
